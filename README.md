@@ -1,5 +1,4 @@
-# My-best-projects
-here are some best projects I built so far.
+
 # 🌟 My Best Projects
 Here are my favorite C projects I've built so far 👇  
 
